@@ -16,3 +16,10 @@ Compared with implementing random forest without preprocessing, the version with
 1.	In order to quickly review the code, we just provide 5,000 training dataset on the folder, and users can found the full dataset at http://yann.lecun.com/exdb/mnist/index.html
 2.	Preprocessing is the way tried to improve performance, but the result is not good enough. We need to add more preprocessing and feature extraction works to improve the performance.
 3.	These two version of random forest has including some measures we found from papers to increase accuracy and have a slight improvement. However, it makes the running time of our random forest longer and we currently don’t optimize for that yet.
+
+##Results
+See <a href="https://github.com/chc2212/Classification-of-handwritten-digits/blob/master/Final%20Report.pdf">Result_Report</a> for information.<br>
+Accuracy rate and training time of algorithms are as follows.<br><br>
+<img src="https://github.com/chc2212/Classification-of-handwritten-digits/blob/master/pic1.png" align="left" height="209" width="400" ><img src="https://github.com/chc2212/Classification-of-handwritten-digits/blob/master/pic2.png" align="right" height="209" width="400" >
+
+
