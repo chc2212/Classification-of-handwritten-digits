@@ -1,5 +1,5 @@
 ##Implement of Random Forest
-In this project, we have two implements of random forest on MATLAB, with preprocessing and without preprocessing. The source code is shown on the folders.
+In this project, we have two implements of random forest on MATLAB, with preprocessing and without preprocessing. The source code is shown on the folders. 
 
 ##How to ran the code
 RandomForest.m is the main file to conduct random forest process, by which user can just write some commands in the command window to run the program. In order to simplify the process to run the code, we provide a file named Main.m to list frequently used commands, and users can choose to select the command they want to run, and then paste the command to the command window of MATLAB or just choose the “run this command” option. (See Main.m for more details)
